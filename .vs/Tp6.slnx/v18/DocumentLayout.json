@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Tp6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59A8BC2E-41A2-46D6-803F-FB98C251D241}|Tp6\\Tp6.vcxproj|C:\\Users\\user\\source\\repos\\Tp6\\Tp6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59A8BC2E-41A2-46D6-803F-FB98C251D241}|Tp6\\Tp6.vcxproj|solutionrelative:Tp6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A8BC2E-41A2-46D6-803F-FB98C251D241}|Tp6\\Tp6.vcxproj|C:\\Users\\user\\source\\repos\\Tp6\\Tp6\\Sudoku.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59A8BC2E-41A2-46D6-803F-FB98C251D241}|Tp6\\Tp6.vcxproj|solutionrelative:Tp6\\Sudoku.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A8BC2E-41A2-46D6-803F-FB98C251D241}|Tp6\\Tp6.vcxproj|C:\\Users\\user\\source\\repos\\Tp6\\Tp6\\Sudoku.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59A8BC2E-41A2-46D6-803F-FB98C251D241}|Tp6\\Tp6.vcxproj|solutionrelative:Tp6\\Sudoku.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Tp6\\Tp6\\main.cpp",
+              "RelativeDocumentMoniker": "Tp6\\main.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Tp6\\Tp6\\main.cpp",
+              "RelativeToolTip": "Tp6\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-20T19:51:38.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sudoku.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Tp6\\Tp6\\Sudoku.cpp",
+              "RelativeDocumentMoniker": "Tp6\\Sudoku.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Tp6\\Tp6\\Sudoku.cpp",
+              "RelativeToolTip": "Tp6\\Sudoku.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-20T19:26:02.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sudoku.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Tp6\\Tp6\\Sudoku.h",
+              "RelativeDocumentMoniker": "Tp6\\Sudoku.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Tp6\\Tp6\\Sudoku.h",
+              "RelativeToolTip": "Tp6\\Sudoku.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-20T19:16:50.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
